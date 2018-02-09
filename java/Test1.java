@@ -6,4 +6,9 @@ class Test1{
 	{
 		System.out.println("hello world!");
     	}
+	
+	public static void add()
+	{
+		System.out.println("hi young");
+	}
 }
